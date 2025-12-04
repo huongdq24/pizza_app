@@ -528,12 +528,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors and testers
 - Open source community
 
-## 📞 Support
-
-For support:
-- 📧 Email: huongdq24@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/huongdq24/pizza_app/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/huongdq24/pizza_app/discussions)
 
 ## 🌟 Show Your Support
 
@@ -543,4 +537,4 @@ Give a ⭐️ if this project helped you!
 
 **Made with ❤️ using Flutter**
 
-© 2024 Pizza App. All rights reserved.
+© 2025 Pizza App. All rights reserved.
