@@ -9,19 +9,32 @@ A full-featured Flutter e-commerce application for ordering pizzas with an admin
 
 ## 📱 Screenshots
 
+### Authentication
+<p align="center">
+  <img src="https://res.cloudinary.com/dqhgnzmtk/image/upload/v1764861464/UI_Login_zulv15.png" width="250" alt="Login Screen"/>
+  <img src="https://res.cloudinary.com/dqhgnzmtk/image/upload/v1764861463/sign_up_smfapb.png" width="250" alt="Sign Up"/>
+  <img src="https://res.cloudinary.com/dqhgnzmtk/image/upload/v1764861576/Sign_up_2_rwiq34.png" width="250" alt="Sign Up with Validation"/>
+</p>
+
+*Modern authentication with beautiful gradient UI and password validation*
+
 ### Customer Experience
-| Login | Product List | Product Detail | Shopping Cart |
-|-------|-------------|----------------|---------------|
-| Modern authentication with gradient UI | Browse pizza catalog | View nutritional info | Manage cart items |
+<p align="center">
+  <img src="https://res.cloudinary.com/dqhgnzmtk/image/upload/v1764861464/Product_cards_fswqnj.png" width="250" alt="Product Catalog"/>
+  <img src="https://res.cloudinary.com/dqhgnzmtk/image/upload/v1764861463/UI_User_wawnnb.png" width="250" alt="User View"/>
+  <img src="https://res.cloudinary.com/dqhgnzmtk/image/upload/v1764861463/Order_user_oztq0r.png" width="250" alt="Order History"/>
+</p>
 
-| Checkout | Order Success | Order History |
-|----------|--------------|---------------|
-| Payment & delivery details | Confirmation with tracking | View all orders |
+*Browse products, view details with nutritional info, and track orders*
 
-### Admin Panel
-| Admin View | Add Product | Order Management |
-|-----------|-------------|------------------|
-| Edit/Delete products | Complete product form | View all customer orders |
+### Checkout & Order Flow
+<p align="center">
+  <img src="https://res.cloudinary.com/dqhgnzmtk/image/upload/v1764861462/CheckoutScreen_pgqoio.png" width="250" alt="Shopping Cart"/>
+  <img src="https://res.cloudinary.com/dqhgnzmtk/image/upload/v1764861471/Checkout_Screen_vqvsgf.png" width="250" alt="Checkout"/>
+  <img src="https://res.cloudinary.com/dqhgnzmtk/image/upload/v1764861463/OrderSuccessScreen_abrhjf.png" width="250" alt="Order Success"/>
+</p>
+
+*Complete checkout flow: cart management, payment selection, and order confirmation*
 
 ## ✨ Features
 
