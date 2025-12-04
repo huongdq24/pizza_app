@@ -1,0 +1,15 @@
+name: order_repository
+description: A repository for managing order data
+version: 1.0.0
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cloud_firestore: ^4.9.2
+  equatable: ^2.0.5
+  cart_repository:
+    path: ../cart_repository
